@@ -1,20 +1,22 @@
-id: opecha:P007971
+id: P007971
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W16484
   title: དབུ་མ་ཟབ་དོན་གདམས་པའི་མིག་འབྱེད་གསེར་གྱི་ཐུར་མ།
-  volume:
+  author: ''
+  volumes:
     3b6729c654e445afb840b5d63c0ab8c2:
       image_group_id: I1KG13436
       title: Volume 1 of dbu ma zab don gdams pa'i mig 'byed gser gyi thur ma/
       volume_number: 1
       total_pages: 470
+      base_file: v001.txt
     d6b859f697ee4b039fbd08c7b1dbba67:
       image_group_id: I1KG13437
       title: Volume 2 of dbu ma zab don gdams pa'i mig 'byed gser gyi thur ma/
       volume_number: 2
       total_pages: 346
-  author: ''
+      base_file: v002.txt
 ebook_metadata:
   title: དབུ་མ་ཟབ་དོན་གདམས་པའི་མིག་འབྱེད་གསེར་གྱི་ཐུར་མ།
   author: ''
