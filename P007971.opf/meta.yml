@@ -5,16 +5,18 @@ source_metadata:
   title: དབུ་མ་ཟབ་དོན་གདམས་པའི་མིག་འབྱེད་གསེར་གྱི་ཐུར་མ།
   author: ''
   volumes:
-    d1c8f9a6d91c427a9f25792543f2b15e:
+    3b6729c654e445afb840b5d63c0ab8c2:
       image_group_id: I1KG13436
-      title: ''
+      title: Volume 1 of dbu ma zab don gdams pa'i mig 'byed gser gyi thur ma/
       volume_number: 1
       total_pages: 470
-    b6de243228e34fa5ba8c4c53a541981a:
+      base_file: v001.txt
+    d6b859f697ee4b039fbd08c7b1dbba67:
       image_group_id: I1KG13437
-      title: ''
+      title: Volume 2 of dbu ma zab don gdams pa'i mig 'byed gser gyi thur ma/
       volume_number: 2
       total_pages: 346
+      base_file: v002.txt
 ebook_metadata:
   title: དབུ་མ་ཟབ་དོན་གདམས་པའི་མིག་འབྱེད་གསེར་གྱི་ཐུར་མ།
   author: ''
